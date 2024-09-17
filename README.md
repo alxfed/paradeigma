@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# Paradeigma
+παράδειγμα
 <pre>
-  pip install independent-machine
+  pip install paradeigma
 </pre>
 Then:
 ```Python
   # Python
-  import independent_machine
+  import paradeigma
 ```
