@@ -1,5 +1,5 @@
 # Paradeigma
-παράδειγμα
+παράδειγμα - pattern, example, sample.
 <pre>
   pip install paradeigma
 </pre>
